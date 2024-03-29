@@ -1,0 +1,16 @@
+export default ConstantStrings = {
+    HOME: "Home",
+    LOGIN: "Login",
+    SIGNUP: "Signup",
+    ACCOUNT: "Account",
+    ADD_PRODUCT: "Add Product",
+    DELETE_PRODUCT: "Delete Product",
+    ADMIN: "Admin",
+    CART: "Cart",
+    ORDER: "Order",
+    PROFILE: "Profile",
+    SINGLE_PRODUCT: "Single Product",
+    HOME_STACK: "Home Stack",
+    ACCOUNT_STACK: "Account Stack",
+    ADMIN_STACK: "Admin Stack",
+}

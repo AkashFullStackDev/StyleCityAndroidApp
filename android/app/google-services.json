@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1044209799853",
+    "project_id": "stylecity-65611",
+    "storage_bucket": "stylecity-65611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044209799853:android:f88d80f223b27ed2db2c24",
+        "android_client_info": {
+          "package_name": "com.stylecityclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044209799853-nn3vlj9oqsg178udurimicqs4aeell72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stylecityclient",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1044209799853-c8bt9buei34840mievrtb6bmi5m5vjgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFIoSay-OwjIe6OCg4s_nBr2BWhnyhXQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044209799853-c8bt9buei34840mievrtb6bmi5m5vjgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
